@@ -30,28 +30,29 @@
 <text x="28" y="508" xml:space="preserve" fill="#8b949e">MM@@@@MMMMMMMMMMM@@@@@@MMM@@@MMM</text>
 <text x="28" y="525" xml:space="preserve" fill="#8b949e">MMM@@@MMMMMMMMMM@@@@@@@@M@@@@@MM</text>
 <text x="28" y="542" xml:space="preserve" fill="#8b949e">MMM@@@MMMMMMMMMM@@@@@@@@@MM@@@M</text>
-<text x="342" y="100" xml:space="preserve"><tspan fill="#e3b341">mahir@puri </tspan><tspan fill="#484f58">───────────────────────────────────────────────</tspan></text>
-<text x="342" y="117" xml:space="preserve"><tspan fill="#ffa657">. OS: </tspan><tspan fill="#6e7681">............... </tspan><tspan fill="#c9d1d9">macOS, Ubuntu, Azure Databricks, AWS</tspan></text>
-<text x="342" y="134" xml:space="preserve"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#6e7681">.................... </tspan><tspan fill="#c9d1d9">19 years, 8 months, 25 days</tspan></text>
-<text x="342" y="151" xml:space="preserve"><tspan fill="#ffa657">. Host: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">University of Victoria, BSEng '28</tspan></text>
-<text x="342" y="168" xml:space="preserve"><tspan fill="#ffa657">. Kernel: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">Software Engineer (Co-op Build)</tspan></text>
-<text x="342" y="185" xml:space="preserve"><tspan fill="#ffa657">. Next.Deploy: </tspan><tspan fill="#6e7681">......... </tspan><tspan fill="#c9d1d9">RBC Real-Time Payments, Fall 2026</tspan></text>
-<text x="342" y="202" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
-<text x="342" y="219" xml:space="preserve"><tspan fill="#ffa657">. Languages.Programming: </tspan><tspan fill="#6e7681">..... </tspan><tspan fill="#c9d1d9">Java, Python, TS, C++, Ruby</tspan></text>
-<text x="342" y="236" xml:space="preserve"><tspan fill="#ffa657">. Languages.Markup: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">SQL, HTML, CSS, YAML, LaTeX</tspan></text>
-<text x="342" y="253" xml:space="preserve"><tspan fill="#ffa657">. Languages.Real: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">English</tspan></text>
-<text x="342" y="270" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
-<text x="342" y="287" xml:space="preserve"><tspan fill="#ffa657">. Systems.Fintech: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">RTPN Rail, Flash Sale Engine</tspan></text>
-<text x="342" y="304" xml:space="preserve"><tspan fill="#ffa657">. Systems.AI: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">Adversary Red-Team CI, RAG</tspan></text>
-<text x="342" y="321" xml:space="preserve"><tspan fill="#ffa657">. Daemons.Background: </tspan><tspan fill="#6e7681">.................. </tspan><tspan fill="#c9d1d9">PRAYAS, Sewa UVic</tspan></text>
-<text x="342" y="338" xml:space="preserve"></text>
-<text x="342" y="355" xml:space="preserve"><tspan fill="#ffa657">- Contact </tspan><tspan fill="#484f58">────────────────────────────────────────────────</tspan></text>
-<text x="342" y="372" xml:space="preserve"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#6e7681">.......................... </tspan><tspan fill="#c9d1d9">mahirpuri.17@gmail.com</tspan></text>
-<text x="342" y="389" xml:space="preserve"><tspan fill="#ffa657">. Portfolio: </tspan><tspan fill="#6e7681">............ </tspan><tspan fill="#c9d1d9">mahir-portfolio-three.vercel.app</tspan></text>
-<text x="342" y="406" xml:space="preserve"><tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">in/mahir-puri</tspan></text>
-<text x="342" y="423" xml:space="preserve"></text>
-<text x="342" y="440" xml:space="preserve"><tspan fill="#ffa657">- GitHub Stats </tspan><tspan fill="#484f58">───────────────────────────────────────────</tspan></text>
-<text x="342" y="457" xml:space="preserve"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#c9d1d9">30 {Contributed: 2}</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Stars: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">1</tspan></text>
-<text x="342" y="474" xml:space="preserve"><tspan fill="#ffa657">. Contributions: </tspan><tspan fill="#6e7681">........ </tspan><tspan fill="#c9d1d9">340</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Followers: </tspan><tspan fill="#6e7681">............. </tspan><tspan fill="#c9d1d9">7</tspan></text>
-<text x="342" y="491" xml:space="preserve"><tspan fill="#ffa657">. Lines of Code on GitHub: </tspan><tspan fill="#c9d1d9">21,289 ( </tspan><tspan fill="#3fb950">24,671++</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#f85149">3,382--</tspan><tspan fill="#c9d1d9"> )</tspan></text>
+<text x="342" y="91" xml:space="preserve"><tspan fill="#e3b341">mahir@puri </tspan><tspan fill="#484f58">───────────────────────────────────────────────</tspan></text>
+<text x="342" y="108" xml:space="preserve"><tspan fill="#ffa657">. OS: </tspan><tspan fill="#6e7681">............... </tspan><tspan fill="#c9d1d9">macOS, Ubuntu, Azure Databricks, AWS</tspan></text>
+<text x="342" y="125" xml:space="preserve"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#6e7681">.................... </tspan><tspan fill="#c9d1d9">19 years, 8 months, 25 days</tspan></text>
+<text x="342" y="142" xml:space="preserve"><tspan fill="#ffa657">. Host: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">University of Victoria, BSEng '28</tspan></text>
+<text x="342" y="159" xml:space="preserve"><tspan fill="#ffa657">. Kernel: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">Software Engineer (Co-op Build)</tspan></text>
+<text x="342" y="176" xml:space="preserve"><tspan fill="#ffa657">. Last.Deploy: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">RBC Global Security, Winter 2026</tspan></text>
+<text x="342" y="193" xml:space="preserve"><tspan fill="#ffa657">. Next.Deploy: </tspan><tspan fill="#6e7681">......... </tspan><tspan fill="#c9d1d9">RBC Real-Time Payments, Fall 2026</tspan></text>
+<text x="342" y="210" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text x="342" y="227" xml:space="preserve"><tspan fill="#ffa657">. Languages.Programming: </tspan><tspan fill="#6e7681">..... </tspan><tspan fill="#c9d1d9">Java, Python, TS, C++, Ruby</tspan></text>
+<text x="342" y="244" xml:space="preserve"><tspan fill="#ffa657">. Languages.Markup: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">SQL, HTML, CSS, YAML, LaTeX</tspan></text>
+<text x="342" y="261" xml:space="preserve"><tspan fill="#ffa657">. Languages.Real: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">English</tspan></text>
+<text x="342" y="278" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text x="342" y="295" xml:space="preserve"><tspan fill="#ffa657">. Systems.Fintech: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">RTPN Rail, Flash Sale Engine</tspan></text>
+<text x="342" y="312" xml:space="preserve"><tspan fill="#ffa657">. Systems.AI: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">Adversary Red-Team CI, RAG</tspan></text>
+<text x="342" y="329" xml:space="preserve"><tspan fill="#ffa657">. Daemons.Background: </tspan><tspan fill="#6e7681">.................. </tspan><tspan fill="#c9d1d9">PRAYAS, Sewa UVic</tspan></text>
+<text x="342" y="346" xml:space="preserve"></text>
+<text x="342" y="363" xml:space="preserve"><tspan fill="#ffa657">- Contact </tspan><tspan fill="#484f58">────────────────────────────────────────────────</tspan></text>
+<text x="342" y="380" xml:space="preserve"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#6e7681">.......................... </tspan><tspan fill="#c9d1d9">mahirpuri.17@gmail.com</tspan></text>
+<text x="342" y="397" xml:space="preserve"><tspan fill="#ffa657">. Portfolio: </tspan><tspan fill="#6e7681">............ </tspan><tspan fill="#c9d1d9">mahir-portfolio-three.vercel.app</tspan></text>
+<text x="342" y="414" xml:space="preserve"><tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">in/mahir-puri</tspan></text>
+<text x="342" y="431" xml:space="preserve"></text>
+<text x="342" y="448" xml:space="preserve"><tspan fill="#ffa657">- GitHub Stats </tspan><tspan fill="#484f58">───────────────────────────────────────────</tspan></text>
+<text x="342" y="465" xml:space="preserve"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#c9d1d9">30 {Contributed: 2}</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Stars: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">1</tspan></text>
+<text x="342" y="482" xml:space="preserve"><tspan fill="#ffa657">. Contributions: </tspan><tspan fill="#6e7681">........ </tspan><tspan fill="#c9d1d9">341</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Followers: </tspan><tspan fill="#6e7681">............. </tspan><tspan fill="#c9d1d9">7</tspan></text>
+<text x="342" y="499" xml:space="preserve"><tspan fill="#ffa657">. Lines of Code on GitHub: </tspan><tspan fill="#c9d1d9">21,289 ( </tspan><tspan fill="#3fb950">24,671++</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#f85149">3,382--</tspan><tspan fill="#c9d1d9"> )</tspan></text>
 </svg>
