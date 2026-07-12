@@ -207,6 +207,7 @@ def build_panel(stats):
     lines.append(leader("Uptime", stats["uptime"]))
     lines.append(leader("Host", "University of Victoria, BSEng '28"))
     lines.append(leader("Kernel", "Software Engineer (Co-op Build)"))
+    lines.append(leader("Last.Deploy", "RBC Global Security, Winter 2026"))
     lines.append(leader("Next.Deploy", "RBC Real-Time Payments, Fall 2026"))
     lines.append([(".", C["dots"])])
     lines.append(leader("Languages.Programming", "Java, Python, TS, C++, Ruby"))
