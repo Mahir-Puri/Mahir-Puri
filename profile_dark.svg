@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="823" height="566" viewBox="0 0 823 566" font-family="'JetBrains Mono','Fira Code','Consolas','Liberation Mono',monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="822" height="565" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="49" xml:space="preserve" fill="#8b949e">                MMMM</text>
+<text x="28" y="66" xml:space="preserve" fill="#8b949e">             MMMkkkkMkk</text>
+<text x="28" y="83" xml:space="preserve" fill="#8b949e">            MM%|;:::;%MM</text>
+<text x="28" y="100" xml:space="preserve" fill="#8b949e">            M|:;|;;|;;%M</text>
+<text x="28" y="117" xml:space="preserve" fill="#8b949e">            ;,,:;::|;::</text>
+<text x="28" y="134" xml:space="preserve" fill="#8b949e">            :..:;;||;,.</text>
+<text x="28" y="151" xml:space="preserve" fill="#8b949e">             ,,:,:;;;:</text>
+<text x="28" y="168" xml:space="preserve" fill="#8b949e">             ::;;|||;|</text>
+<text x="28" y="185" xml:space="preserve" fill="#8b949e">          %%M:,;;|||;;%</text>
+<text x="28" y="202" xml:space="preserve" fill="#8b949e">    kkkkkkkkM(,::;;;::kk%kk%</text>
+<text x="28" y="219" xml:space="preserve" fill="#8b949e">  kkkkkkkMMMM%::;:.,;:(Mkkkkk%kk</text>
+<text x="28" y="236" xml:space="preserve" fill="#8b949e"> kkMMMMMMMMMMM;,:,`.:,;kkkkkkMkM</text>
+<text x="28" y="253" xml:space="preserve" fill="#8b949e">k%MMMMMMMMMMMMk::.`..,,%kkkkkMMMk</text>
+<text x="28" y="270" xml:space="preserve" fill="#8b949e">kkMM@MMMMMMMMMM(:.`..,:%MkMMMM@Mk</text>
+<text x="28" y="287" xml:space="preserve" fill="#8b949e">kMMM@@MMMMMMMMMM|,...::%MMMMMM@@Mk</text>
+<text x="28" y="304" xml:space="preserve" fill="#8b949e">kMMM@@@MMMMMMMMMk,...:(MMMMMM@@@Mk</text>
+<text x="28" y="321" xml:space="preserve" fill="#8b949e">kMMM@@@MMMMMM@@MM|,.,%M@@M@M@@@@@Mk</text>
+<text x="28" y="338" xml:space="preserve" fill="#8b949e">MM@@@@@@@MMMMMM@@M:,(M@@@@@M@@@@@Mk</text>
+<text x="28" y="355" xml:space="preserve" fill="#8b949e">MM@@@@@@@MMMMMMM@@k(@@@@@@@k;@@@@@M|</text>
+<text x="28" y="372" xml:space="preserve" fill="#8b949e">MM@@@@@@MMMMMMMMM@@@@@@@@@@k:@@@@@M(</text>
+<text x="28" y="389" xml:space="preserve" fill="#8b949e">MM@@@@@MMMMMMMMMM@@@@@@@MM@M,@@@@MM(</text>
+<text x="28" y="406" xml:space="preserve" fill="#8b949e">MM@@@@@MMMMMMMMMMMkMMMMMMM@M|@@@@@M(</text>
+<text x="28" y="423" xml:space="preserve" fill="#8b949e">MM@@@@@MMMMMMMMMMM(k@MMMMMMMk@@@@@M</text>
+<text x="28" y="440" xml:space="preserve" fill="#8b949e">MM@@@@@MMMMMMMMMMMM@@@@MMM@MM@@@@@k</text>
+<text x="28" y="457" xml:space="preserve" fill="#8b949e">MM@@@@MM@@MMMMMMMMM@@@@@MMMM@@@@@MM</text>
+<text x="28" y="474" xml:space="preserve" fill="#8b949e">MM@@@@@MMMMMMMMMM@@@@@@@@@MM@@M@@M</text>
+<text x="28" y="491" xml:space="preserve" fill="#8b949e">MM@@@@MMMMMMMMMMM@@@@@M@@@@@@@MMM</text>
+<text x="28" y="508" xml:space="preserve" fill="#8b949e">MM@@@@MMMMMMMMMMM@@@@@@MMM@@@MMM</text>
+<text x="28" y="525" xml:space="preserve" fill="#8b949e">MMM@@@MMMMMMMMMM@@@@@@@@M@@@@@MM</text>
+<text x="28" y="542" xml:space="preserve" fill="#8b949e">MMM@@@MMMMMMMMMM@@@@@@@@@MM@@@M</text>
+<text x="342" y="100" xml:space="preserve"><tspan fill="#e3b341">mahir@puri </tspan><tspan fill="#484f58">───────────────────────────────────────────────</tspan></text>
+<text x="342" y="117" xml:space="preserve"><tspan fill="#ffa657">. OS: </tspan><tspan fill="#6e7681">............... </tspan><tspan fill="#c9d1d9">macOS, Ubuntu, Azure Databricks, AWS</tspan></text>
+<text x="342" y="134" xml:space="preserve"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#6e7681">.................... </tspan><tspan fill="#c9d1d9">19 years, 8 months, 25 days</tspan></text>
+<text x="342" y="151" xml:space="preserve"><tspan fill="#ffa657">. Host: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">University of Victoria, BSEng '28</tspan></text>
+<text x="342" y="168" xml:space="preserve"><tspan fill="#ffa657">. Kernel: </tspan><tspan fill="#6e7681">................ </tspan><tspan fill="#c9d1d9">Software Engineer (Co-op Build)</tspan></text>
+<text x="342" y="185" xml:space="preserve"><tspan fill="#ffa657">. Next.Deploy: </tspan><tspan fill="#6e7681">......... </tspan><tspan fill="#c9d1d9">RBC Real-Time Payments, Fall 2026</tspan></text>
+<text x="342" y="202" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text x="342" y="219" xml:space="preserve"><tspan fill="#ffa657">. Languages.Programming: </tspan><tspan fill="#6e7681">..... </tspan><tspan fill="#c9d1d9">Java, Python, TS, C++, Ruby</tspan></text>
+<text x="342" y="236" xml:space="preserve"><tspan fill="#ffa657">. Languages.Markup: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">SQL, HTML, CSS, YAML, LaTeX</tspan></text>
+<text x="342" y="253" xml:space="preserve"><tspan fill="#ffa657">. Languages.Real: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">English</tspan></text>
+<text x="342" y="270" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text x="342" y="287" xml:space="preserve"><tspan fill="#ffa657">. Systems.Fintech: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#c9d1d9">RTPN Rail, Flash Sale Engine</tspan></text>
+<text x="342" y="304" xml:space="preserve"><tspan fill="#ffa657">. Systems.AI: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">Adversary Red-Team CI, RAG</tspan></text>
+<text x="342" y="321" xml:space="preserve"><tspan fill="#ffa657">. Daemons.Background: </tspan><tspan fill="#6e7681">.................. </tspan><tspan fill="#c9d1d9">PRAYAS, Sewa UVic</tspan></text>
+<text x="342" y="338" xml:space="preserve"></text>
+<text x="342" y="355" xml:space="preserve"><tspan fill="#ffa657">- Contact </tspan><tspan fill="#484f58">────────────────────────────────────────────────</tspan></text>
+<text x="342" y="372" xml:space="preserve"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#6e7681">.......................... </tspan><tspan fill="#c9d1d9">mahirpuri.17@gmail.com</tspan></text>
+<text x="342" y="389" xml:space="preserve"><tspan fill="#ffa657">. Portfolio: </tspan><tspan fill="#6e7681">............ </tspan><tspan fill="#c9d1d9">mahir-portfolio-three.vercel.app</tspan></text>
+<text x="342" y="406" xml:space="preserve"><tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#c9d1d9">in/mahir-puri</tspan></text>
+<text x="342" y="423" xml:space="preserve"></text>
+<text x="342" y="440" xml:space="preserve"><tspan fill="#ffa657">- GitHub Stats </tspan><tspan fill="#484f58">───────────────────────────────────────────</tspan></text>
+<text x="342" y="457" xml:space="preserve"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#c9d1d9">16 {Contributed: 20}</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Stars: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#c9d1d9">2</tspan></text>
+<text x="342" y="474" xml:space="preserve"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#6e7681">.............. </tspan><tspan fill="#c9d1d9">500</tspan><tspan fill="#484f58"> |</tspan><tspan fill="#ffa657"> Followers: </tspan><tspan fill="#6e7681">............. </tspan><tspan fill="#c9d1d9">7</tspan></text>
+<text x="342" y="491" xml:space="preserve"><tspan fill="#ffa657">. Lines of Code on GitHub: </tspan><tspan fill="#c9d1d9">80,000 ( </tspan><tspan fill="#3fb950">100,000++</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#f85149">20,000--</tspan><tspan fill="#c9d1d9"> )</tspan></text>
+</svg>
