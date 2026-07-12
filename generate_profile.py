@@ -81,13 +81,18 @@ def fetch_user_core():
     return gql(q, {"login": USERNAME})["user"]
 
 
-def fetch_total_commits(created_at):
-    """Sum commit contributions year by year since account creation."""
+def fetch_total_contributions(created_at):
+    """Sum all contributions year by year since account creation.
+    Includes commits, PRs, issues, and code reviews — same metric
+    GitHub uses for the contribution graph."""
     q = """
     query($login: String!, $from: DateTime!, $to: DateTime!) {
       user(login: $login) {
         contributionsCollection(from: $from, to: $to) {
           totalCommitContributions
+          totalPullRequestContributions
+          totalIssueContributions
+          totalPullRequestReviewContributions
           restrictedContributionsCount
         }
       }
@@ -103,7 +108,13 @@ def fetch_total_commits(created_at):
             "from": cursor.isoformat(),
             "to": end.isoformat(),
         })["user"]["contributionsCollection"]
-        total += c["totalCommitContributions"] + c["restrictedContributionsCount"]
+        total += (
+            c["totalCommitContributions"]
+            + c["totalPullRequestContributions"]
+            + c["totalIssueContributions"]
+            + c["totalPullRequestReviewContributions"]
+            + c["restrictedContributionsCount"]
+        )
         cursor = end
     return total
 
@@ -218,7 +229,7 @@ def build_panel(stats):
     # Repos {Contributed} | Stars
     left_val = f"{stats['repos']} {{Contributed: {stats['contributed']}}}"
     lines.append(split_stat("Repos", left_val, "Stars", fmt(stats["stars"])))
-    lines.append(split_stat("Commits", fmt(stats["commits"]), "Followers", fmt(stats["followers"])))
+    lines.append(split_stat("Contributions", fmt(stats["commits"]), "Followers", fmt(stats["followers"])))
 
     loc_left = f". Lines of Code on GitHub: "
     loc_total = loc_net + " ( "
@@ -311,7 +322,7 @@ def main():
             "contributed": user["repositoriesContributedTo"]["totalCount"],
             "stars": sum(r["stargazerCount"] for r in repos),
             "followers": user["followers"]["totalCount"],
-            "commits": fetch_total_commits(user["createdAt"]),
+            "commits": fetch_total_contributions(user["createdAt"]),
         }
         stats["loc_add"], stats["loc_del"] = fetch_loc(repos)
 
