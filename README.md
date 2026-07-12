@@ -1,6 +1,6 @@
 <!-- Generated daily by generate_profile.py via GitHub Actions -->
 <a href="https://github.com/Mahir-Puri">
-  <img src="profile_dark.svg" alt="Mahir Puri — software engineering student at UVic." width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mahir-Puri/Mahir-Puri/main/profile_dark.svg" alt="Mahir Puri — software engineering student at UVic." width="100%"/>
 </a>
 
 <p align="center">
